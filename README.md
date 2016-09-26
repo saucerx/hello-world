@@ -1,2 +1,2 @@
 # hello-world
-hello world test
+we are doing a turtorial at NU about Git
